@@ -1,8 +1,7 @@
 <div align="center">
   <h1>
-    <img src="https://i.pinimg.com/originals/c1/ea/c9/c1eac9b2156638e024047540c3dce54b.gif" width="50" height="50" alt="Animated Emoji">
     Oscar Felipe Mariño Rincón
-    <img src="https://i.pinimg.com/originals/c1/ea/c9/c1eac9b2156638e024047540c3dce54b.gif" width="50" height="50" alt="Animated Emoji">
+    <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="30" height="30" alt="Animated Emoji">
   </h1>
   <h3>Ingeniero de Sistemas | Full Stack Developer | Java | Node.js | Typescript | Flutter | Web And Mobile Developer</h3>
 </div>
