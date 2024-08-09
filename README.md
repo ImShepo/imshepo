@@ -19,7 +19,7 @@
 
 - 🎓 Bachelor's in Systems Engineering | 🎓 Ingeniero de Sistemas
 
-## 🛠️ Skills
+## 🛠️ Skills | Habilidades
 <div align="center">
 
 | **Backend** | **Frontend** | **Mobile** |
@@ -33,16 +33,16 @@
 
 </div>
 
-**Tools & Platforms**:
+**Tools & Platforms | Herramientas & Plataformas**:
 - [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io) [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
 
-**Databases**:
+**Databases | Bases de Datos**:
 - [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
-**Agile**:
+**Agile | Desarrollo Ágil**:
 - [![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org) [![Kanban](https://img.shields.io/badge/Kanban-EE4C2C?style=for-the-badge&logo=kanban&logoColor=white)](https://kanbanize.com) [![UML](https://img.shields.io/badge/UML-006B8D?style=for-the-badge&logo=uml&logoColor=white)](https://www.uml.org)
 
-**Languages**:
+**Languages | Idiomas**:
 - **Advanced:** [![English](https://img.shields.io/badge/English-B22222?style=for-the-badge&logo=english&logoColor=white)](https://www.english.com) | **Intermediate:** [![Portuguese](https://img.shields.io/badge/Portuguese-3399FF?style=for-the-badge&logo=portuguese&logoColor=white)](https://www.portuguese.com) | **Native:** [![Spanish](https://img.shields.io/badge/Spanish-E63946?style=for-the-badge&logo=spanish&logoColor=white)](https://www.spanish.com)
 
 ## 🌐 Projects | Proyectos
