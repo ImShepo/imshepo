@@ -1,8 +1,8 @@
 <div align="center">
   <h1>
-    <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="40" height="40" alt="Animated Emoji">
+    <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="35" height="35" alt="Animated Emoji">
     Oscar Felipe Mariño Rincón
-    <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="40" height="40" alt="Animated Emoji">
+    <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" width="35" height="35" alt="Animated Emoji">
   </h1>
   <h3>Ingeniero de Sistemas | Full Stack Developer | Web And Mobile Developer</h3>
 </div>
