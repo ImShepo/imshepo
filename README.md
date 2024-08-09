@@ -13,7 +13,7 @@
 
 **English** | **Español**
 
-- 👨‍💻 I'm a passionate **Full Stack Developer** with a strong focus on **Java**, **Node.js**, **Typescript**, and **Flutter** | 👨‍💻 Soy un apasionado **Full Stack Developer** con un fuerte enfoque en **Java**, **Node.js**, **Typescript** y **Flutter**
+- 👨‍💻 I'm a passionate **Full Stack Developer** with a strong focus on **Java**, **Node.js**, **Typescript** and **Flutter** | 👨‍💻 Soy un apasionado **Full Stack Developer** con un fuerte enfoque en **Java**, **Node.js**, **Typescript** y **Flutter**
 
 - 🌍 Currently based in Tunja, Boyacá, Colombia | 🌍 Actualmente ubicado en Tunja, Boyacá, Colombia
 
