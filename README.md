@@ -17,21 +17,27 @@
 
 - 🌍 Currently based in Tunja, Boyacá, Colombia | 🌍 Actualmente ubicado en Tunja, Boyacá, Colombia
 
-- 🎓 **Bachelor's in Systems Engineering** | 🎓 **Ingeniero de Sistemas**
+- 🎓 Bachelor's in Systems Engineering | 🎓 Ingeniero de Sistemas
 
 ## 🛠️ Skills
 
-**Languages**:
-- Java | Node.js | Typescript | JavaScript | Dart
+**Programming Languages**:
+- Java | Dart | JavaScript | AWS | Azure
 
 **Frameworks & Libraries**:
-- React | Next.js | Express | Spring Boot | Flutter
-
+- Spring Boot | Hibernate | TypeORM | NodeJS | Next.js | Express |  NestJS | VueJS | AngularJS | ReactJS | Flutter
+  
 **Tools & Platforms**:
-- Git | Docker | Kubernetes | Jenkins | AWS | GCP | BigQuery
+- Git | GitHub | GitLab | Docker | Kubernetes | Jenkins | AWS | GCP | BigQuery | Jira | Trello | Slack | Linear
 
 **Databases**:
 - MySQL | PostgreSQL | MongoDB | Firebase
+
+**Agile**:
+- Scrum | Kanban | UML | Waterfall
+
+**Languages**:
+- **Advanced:** English | **Intermediate:** Portuguese | **Native:** Spanish
 
 ## 🌐 Projects | Proyectos
 
