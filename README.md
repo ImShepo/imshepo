@@ -22,13 +22,13 @@
 ## 🛠️ Skills
 
 **Programming Languages**:
-- Java | Dart | JavaScript | AWS | Azure
+- Java | Dart | JavaScript
 
 **Frameworks & Libraries**:
 - Spring Boot | Hibernate | TypeORM | NodeJS | Next.js | Express |  NestJS | VueJS | AngularJS | ReactJS | Flutter
   
 **Tools & Platforms**:
-- Git | GitHub | GitLab | Docker | Kubernetes | Jenkins | AWS | GCP | BigQuery | Jira | Trello | Slack | Linear
+- Git | GitHub | GitLab | Docker | Kubernetes | Jenkins | AWS | Azure | GCP | BigQuery | Jira | Trello | Slack | Linear
 
 **Databases**:
 - MySQL | PostgreSQL | MongoDB | Firebase
