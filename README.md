@@ -22,9 +22,6 @@
 - 🎓 **Bachelor's in Systems Engineering** .
 - 🎓 **Ingeniero de Sistemas**.
 
-- 💼 Looking for new opportunities in the **US** as a **Backend, Frontend, or Full Stack Developer**.
-- 💼 Buscando nuevas oportunidades en **EE.UU.** como **Backend, Frontend o Full Stack Developer**.
-
 ## 🛠️ Skills
 
 **Languages**:
