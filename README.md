@@ -13,9 +13,9 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-5b8fff?style=for-the-badge&labelColor=3a63e8&logo=vercel&logoColor=f0f2ff)](https://portfolio.shepo.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pipe--rincon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pipe-rincon/)
-[![Email](https://img.shields.io/badge/Email-piperincon.dev@gmail.com-8b91b0?style=for-the-badge&labelColor=0f0f1a&logo=gmail&logoColor=f0f2ff)](mailto:piperincon.dev@gmail.com)
+<a href="https://portfolio.shepo.dev/" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/View_Portfolio-5b8fff?style=for-the-badge&labelColor=3a63e8&logo=vercel&logoColor=f0f2ff)</a>
+<a href="https://www.linkedin.com/in/pipe-rincon/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-pipe--rincon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:piperincon.dev@gmail.com">![Email](https://img.shields.io/badge/Email-piperincon.dev@gmail.com-8b91b0?style=for-the-badge&labelColor=0f0f1a&logo=gmail&logoColor=f0f2ff)</a>
 
 </div>
 
@@ -119,7 +119,7 @@ Full stack platform for real-time mobility monitoring — Flutter mobile app and
 
 `NestJS` `TypeScript` `Flutter` `PostgreSQL` `Docker` `Railway`
 
-[![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)](https://portfolio.shepo.dev/projects/mobility-metrics-platform)
+<a href="https://portfolio.shepo.dev/projects/mobility-metrics-platform" target="_blank" rel="noopener noreferrer">![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)</a>
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +131,7 @@ Gamified digital collectibles platform with social mechanics, referral system, a
 
 `Flutter` `NestJS` `TypeScript` `PostgreSQL` `Prisma` `Maps API`
 
-[![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)](https://portfolio.shepo.dev/projects/virtual-album)
+<a href="https://portfolio.shepo.dev/projects/virtual-album" target="_blank" rel="noopener noreferrer">![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)</a>
 
 </td>
 </tr>
@@ -145,7 +145,7 @@ Hyperlocal marketplace with geolocation, nearby store discovery, and order manag
 
 `TypeScript` `NestJS` `Prisma` `PostgreSQL` `JWT` `Docker`
 
-[![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)](https://portfolio.shepo.dev/projects/community-marketplace)
+<a href="https://portfolio.shepo.dev/projects/community-marketplace" target="_blank" rel="noopener noreferrer">![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)</a>
 
 </td>
 <td width="50%" valign="top">
@@ -157,7 +157,7 @@ Full-featured LMS for course management, content delivery, enrollment flows, and
 
 `NestJS` `TypeScript` `PostgreSQL` `Sequelize` `JWT` `Railway`
 
-[![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)](https://portfolio.shepo.dev/projects/atec-lms)
+<a href="https://portfolio.shepo.dev/projects/atec-lms" target="_blank" rel="noopener noreferrer">![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)</a>
 
 </td>
 </tr>
@@ -171,7 +171,7 @@ Carpooling app reducing commuting costs and carbon footprint by connecting drive
 
 `Flutter` `Node.js` `Express` `MongoDB` `Azure`
 
-[![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)](https://portfolio.shepo.dev/projects/wheels-gogo)
+<a href="https://portfolio.shepo.dev/projects/wheels-gogo" target="_blank" rel="noopener noreferrer">![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)</a>
 
 </td>
 <td width="50%" valign="top">
@@ -180,7 +180,7 @@ Carpooling app reducing commuting costs and carbon footprint by connecting drive
 
 Explore the full collection with architecture details, challenges, and results on my portfolio.
 
-[![View all projects →](https://img.shields.io/badge/View_all_projects-3a63e8?style=for-the-badge&labelColor=141420&logo=vercel&logoColor=f0f2ff)](https://portfolio.shepo.dev/projects)
+<a href="https://portfolio.shepo.dev/projects" target="_blank" rel="noopener noreferrer">![View all projects →](https://img.shields.io/badge/View_all_projects-3a63e8?style=for-the-badge&labelColor=141420&logo=vercel&logoColor=f0f2ff)</a>
 
 </td>
 </tr>
@@ -232,7 +232,7 @@ Explore the full collection with architecture details, challenges, and results o
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0f0f1a&labelColor=0f0f1a)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0f0f1a)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0f0f1a)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=0f0f1a&labelColor=0f0f1a)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0f0f1a)
 
 **Data & Cloud**
 
@@ -288,9 +288,9 @@ I integrate **AI-assisted development** into my workflow — generative AI tools
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.shepo.dev-3a63e8?style=for-the-badge&labelColor=08080f&logo=vercel&logoColor=f0f2ff)](https://portfolio.shepo.dev/)
-[![Say hello](https://img.shields.io/badge/Say_hello-piperincon.dev@gmail.com-4c7eff?style=for-the-badge&labelColor=0f0f1a&logo=gmail&logoColor=f0f2ff)](mailto:piperincon.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pipe-rincon/)
+<a href="https://portfolio.shepo.dev/" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.shepo.dev-3a63e8?style=for-the-badge&labelColor=08080f&logo=vercel&logoColor=f0f2ff)</a>
+<a href="mailto:piperincon.dev@gmail.com">![Say hello](https://img.shields.io/badge/Say_hello-piperincon.dev@gmail.com-4c7eff?style=for-the-badge&labelColor=0f0f1a&logo=gmail&logoColor=f0f2ff)</a>
+<a href="https://www.linkedin.com/in/pipe-rincon/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <br/><br/>
 
