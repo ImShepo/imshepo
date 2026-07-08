@@ -192,9 +192,9 @@ Explore the full collection with architecture details, challenges, and results o
 | Period | Role | Organization |
 |:------:|------|--------------|
 | **2023 — Present** | **Mid Senior Software Developer** | **Alteza Enterprise** — Backend leadership, microservices, RabbitMQ, payment gateways, event-driven architecture. |
-| **2021 — 2023** | Junior Software Developer | Alteza Enterprise — Full-stack electronic invoicing platform with Java, Spring Boot and AngularJS. |
 | **2025** | **Mid Senior Software Developer** | **Vortex Soluciones SAS** — Mobility analytics platform and ATEC LMS with Flutter, NestJS and cloud deployment. |
 | **2022 — 2023** | Backend Software Developer | Sougile SAS — Node.js/NestJS services, Kafka and Firestore on GCP. |
+| **2021 — 2023** | Junior Software Developer | Alteza Enterprise — Full-stack electronic invoicing platform with Java, Spring Boot and AngularJS. |
 
 <details>
 <summary><strong>🇪🇸 Experiencia</strong></summary>
@@ -204,9 +204,9 @@ Explore the full collection with architecture details, challenges, and results o
 | Periodo | Rol | Organización |
 |:-------:|-----|--------------|
 | **2023 — Actualidad** | **Desarrollador Mid Senior** | **Alteza Enterprise** |
-| **2021 — 2023** | Desarrollador Junior | Alteza Enterprise |
 | **2025** | **Desarrollador Mid Senior** | **Vortex Soluciones SAS** |
 | **2022 — 2023** | Desarrollador Backend | Sougile SAS |
+| **2021 — 2023** | Desarrollador Junior | Alteza Enterprise |
 
 </details>
 
