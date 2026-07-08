@@ -7,15 +7,15 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Portfolio-portfolio.shepo.dev-3a63e8?style=for-the-badge&labelColor=08080f&logo=googlechrome&logoColor=f0f2ff" alt="Portfolio"/>
+<a href="https://portfolio.shepo.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-portfolio.shepo.dev-3a63e8?style=for-the-badge&labelColor=08080f&logo=googlechrome&logoColor=f0f2ff" alt="Portfolio"/></a>
 <img src="https://img.shields.io/badge/Location-Tunja,_Colombia-8b91b0?style=for-the-badge&labelColor=0f0f1a" alt="Location"/>
 <img src="https://img.shields.io/badge/English-C1_Advanced-4c7eff?style=for-the-badge&labelColor=141420" alt="English"/>
 
 <br/><br/>
 
-<a href="https://portfolio.shepo.dev/" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/View_Portfolio-5b8fff?style=for-the-badge&labelColor=3a63e8&logo=vercel&logoColor=f0f2ff)</a>
-<a href="https://www.linkedin.com/in/pipe-rincon/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-pipe--rincon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:piperincon.dev@gmail.com">![Email](https://img.shields.io/badge/Email-piperincon.dev@gmail.com-8b91b0?style=for-the-badge&labelColor=0f0f1a&logo=gmail&logoColor=f0f2ff)</a>
+<a href="https://portfolio.shepo.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Portfolio-5b8fff?style=for-the-badge&labelColor=3a63e8&logo=vercel&logoColor=f0f2ff" alt="View Portfolio"/></a>
+<a href="https://www.linkedin.com/in/pipe-rincon/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-pipe--rincon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:piperincon.dev@gmail.com"><img src="https://img.shields.io/badge/Email-piperincon.dev@gmail.com-8b91b0?style=for-the-badge&labelColor=0f0f1a&logo=gmail&logoColor=f0f2ff" alt="Email"/></a>
 
 </div>
 
@@ -119,7 +119,7 @@ Full stack platform for real-time mobility monitoring — Flutter mobile app and
 
 `NestJS` `TypeScript` `Flutter` `PostgreSQL` `Docker` `Railway`
 
-<a href="https://portfolio.shepo.dev/projects/mobility-metrics-platform" target="_blank" rel="noopener noreferrer">![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)</a>
+<a href="https://portfolio.shepo.dev/projects/mobility-metrics-platform" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff" alt="View project"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +131,7 @@ Gamified digital collectibles platform with social mechanics, referral system, a
 
 `Flutter` `NestJS` `TypeScript` `PostgreSQL` `Prisma` `Maps API`
 
-<a href="https://portfolio.shepo.dev/projects/virtual-album" target="_blank" rel="noopener noreferrer">![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)</a>
+<a href="https://portfolio.shepo.dev/projects/virtual-album" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff" alt="View project"/></a>
 
 </td>
 </tr>
@@ -145,7 +145,7 @@ Hyperlocal marketplace with geolocation, nearby store discovery, and order manag
 
 `TypeScript` `NestJS` `Prisma` `PostgreSQL` `JWT` `Docker`
 
-<a href="https://portfolio.shepo.dev/projects/community-marketplace" target="_blank" rel="noopener noreferrer">![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)</a>
+<a href="https://portfolio.shepo.dev/projects/community-marketplace" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff" alt="View project"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -157,7 +157,7 @@ Full-featured LMS for course management, content delivery, enrollment flows, and
 
 `NestJS` `TypeScript` `PostgreSQL` `Sequelize` `JWT` `Railway`
 
-<a href="https://portfolio.shepo.dev/projects/atec-lms" target="_blank" rel="noopener noreferrer">![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)</a>
+<a href="https://portfolio.shepo.dev/projects/atec-lms" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff" alt="View project"/></a>
 
 </td>
 </tr>
@@ -171,7 +171,7 @@ Carpooling app reducing commuting costs and carbon footprint by connecting drive
 
 `Flutter` `Node.js` `Express` `MongoDB` `Azure`
 
-<a href="https://portfolio.shepo.dev/projects/wheels-gogo" target="_blank" rel="noopener noreferrer">![View project](https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff)</a>
+<a href="https://portfolio.shepo.dev/projects/wheels-gogo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Project-4c7eff?style=flat-square&labelColor=0f0f1a&logo=googlechrome&logoColor=f0f2ff" alt="View project"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -180,7 +180,7 @@ Carpooling app reducing commuting costs and carbon footprint by connecting drive
 
 Explore the full collection with architecture details, challenges, and results on my portfolio.
 
-<a href="https://portfolio.shepo.dev/projects" target="_blank" rel="noopener noreferrer">![View all projects →](https://img.shields.io/badge/View_all_projects-3a63e8?style=for-the-badge&labelColor=141420&logo=vercel&logoColor=f0f2ff)</a>
+<a href="https://portfolio.shepo.dev/projects" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_all_projects-3a63e8?style=for-the-badge&labelColor=141420&logo=vercel&logoColor=f0f2ff" alt="View all projects"/></a>
 
 </td>
 </tr>
@@ -288,9 +288,9 @@ I integrate **AI-assisted development** into my workflow — generative AI tools
 
 <br/>
 
-<a href="https://portfolio.shepo.dev/" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.shepo.dev-3a63e8?style=for-the-badge&labelColor=08080f&logo=vercel&logoColor=f0f2ff)</a>
-<a href="mailto:piperincon.dev@gmail.com">![Say hello](https://img.shields.io/badge/Say_hello-piperincon.dev@gmail.com-4c7eff?style=for-the-badge&labelColor=0f0f1a&logo=gmail&logoColor=f0f2ff)</a>
-<a href="https://www.linkedin.com/in/pipe-rincon/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://portfolio.shepo.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-portfolio.shepo.dev-3a63e8?style=for-the-badge&labelColor=08080f&logo=vercel&logoColor=f0f2ff" alt="Portfolio"/></a>
+<a href="mailto:piperincon.dev@gmail.com"><img src="https://img.shields.io/badge/Say_hello-piperincon.dev@gmail.com-4c7eff?style=for-the-badge&labelColor=0f0f1a&logo=gmail&logoColor=f0f2ff" alt="Say hello"/></a>
+<a href="https://www.linkedin.com/in/pipe-rincon/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
 
