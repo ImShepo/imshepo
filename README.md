@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- SHEPO Electric Blue — aligned with portfolio.shepo.dev -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,50:0f0f1a,100:141420&height=170&section=header&text=Pipe%20Rinc%C3%B3n&fontSize=42&fontColor=f0f2ff&animation=twinkling&fontAlignY=34&desc=Full%20Stack%20Software%20Engineer&descAlignY=56&descSize=15&descAlign=50&descColor=8b91b0" width="100%" alt="Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3200&pause=1200&color=4c7eff&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=I+build+scalable+backend+systems;Enterprise-grade+web+platforms;Microservices+%26+event-driven+architecture" alt="Typing animation"/>
@@ -29,7 +28,7 @@
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| **4+** | **8+** | **3+** | **5** |
+| **5+** | **8+** | **3+** | **5** |
 | Years of professional full stack experience | Shipped projects across web and mobile | Enterprise platforms led as tech lead | Human languages at professional level |
 
 </div>
@@ -40,7 +39,7 @@
 
 > From microservices architecture to real-time dashboards, I help teams deliver **robust, maintainable software** with clean design and measurable impact.
 
-I'm **Oscar Felipe Mariño Rincón** — a Full Stack Software Engineer with 4+ years of experience delivering production-grade web platforms and enterprise systems. I specialize in backend architecture and microservices, with strong skills across the full stack — from REST APIs and databases to React, Next.js, and Flutter mobile apps.
+I'm **Oscar Felipe Mariño Rincón** — a Full Stack Software Engineer with 5+ years of experience delivering production-grade web platforms and enterprise systems. I specialize in backend architecture and microservices, with strong skills across the full stack — from REST APIs and databases to React, Next.js, and Flutter mobile apps.
 
 I've led backend teams for enterprise-scale electronic billing systems, designed microservices and event-driven architectures, integrated payment gateways, and shipped real-time dashboards and mobile apps to Google Play.
 
@@ -49,7 +48,7 @@ I've led backend teams for enterprise-scale electronic billing systems, designed
 
 <br/>
 
-Soy **Ingeniero de Software Full Stack** con más de 4 años de experiencia entregando plataformas web y sistemas empresariales en producción. Me especializo en arquitectura backend y microservicios, con dominio del stack completo — desde APIs REST y bases de datos hasta React, Next.js y apps móviles con Flutter.
+Soy **Ingeniero de Software Full Stack** con más de 5 años de experiencia entregando plataformas web y sistemas empresariales en producción. Me especializo en arquitectura backend y microservicios, con dominio del stack completo — desde APIs REST y bases de datos hasta React, Next.js y apps móviles con Flutter.
 
 He liderado equipos backend en sistemas de facturación electrónica a escala empresarial, diseñado arquitecturas de microservicios orientadas a eventos, integrado pasarelas de pago y publicado dashboards en tiempo real y apps móviles en Google Play.
 
